@@ -1,7 +1,3 @@
-Sure, I'll incorporate that into the simplified `README.md`:
-
----
-
 # carPortal
 
 carPortal brings to life the idea from Assignment 3 (A3) of CIS*2500, transitioning from a CLI-based car management system to a modern, web-enabled application. Leveraging MongoDB, TypeScript, Next.js, Tailwind CSS, and JavaScript, this platform offers a more accessible and intuitive experience for managing a car inventory.
@@ -75,12 +71,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is protected under the MIT License.
-
-## Contact
-
-- Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-- Project URL: [https://github.com/yourusername/carPortal](https://github.com/yourusername/carPortal)
-
----
-
-This adjusted description succinctly aligns the project with its roots in the coursework, emphasizing its academic inspiration and transformation into a modern web application.
